@@ -1,29 +1,38 @@
-[{
-  "_id": {
-    "$oid": "6407418db1f27c3225761456"
+[
+  {
+    "_id": {
+      "$oid": "6407418db1f27c3225761456"
+    },
+    "Code": 1,
+    "Name": "Blades",
+    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/categories/6407418db1f27c3225761456.png",
+    "__v": 0
   },
-  "Code": 1,
-  "Name": "Blades",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "64074196b1f27c322576145b"
+  {
+    "_id": {
+      "$oid": "64074196b1f27c322576145b"
+    },
+    "Code": 2,
+    "Name": "Rubbers",
+    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/categories/64074196b1f27c322576145b.png",
+    "__v": 0
   },
-  "Code": 2,
-  "Name": "Rubbers",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6407419fb1f27c3225761460"
+  {
+    "_id": {
+      "$oid": "6407419fb1f27c3225761460"
+    },
+    "Code": 3,
+    "Name": "Balls",
+    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/categories/6407419fb1f27c3225761460.png",
+    "__v": 0
   },
-  "Code": 3,
-  "Name": "Balls",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "640741a9b1f27c3225761465"
-  },
-  "Code": 4,
-  "Name": "Tables",
-  "__v": 0
-}]
+  {
+    "_id": {
+      "$oid": "640741a9b1f27c3225761465"
+    },
+    "Code": 4,
+    "Name": "Tables",
+    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/categories/640741a9b1f27c3225761465.png",
+    "__v": 0
+  }
+]
