@@ -1,13 +1,12 @@
 [
   {
-    "_id": {
-      "$oid": "641e58c283d5051c21e245b1"
-    },
+    "_id": "641e58c283d5051c21e245b1",
     "SKU": "1-1",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e58c283d5051c21e245b1.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Eto Blade Usagi",
-    "category": 1,
+    "style": "classic",
     "price": 630.02,
     "quantity": 100,
     "properties": {
@@ -19,14 +18,13 @@
     "description": "The Nittaku has produced a mere 200 of this Limited Edition 2023 blade. The ETO blade was produced in Japan using premium quality Kiso Hinoki wood and modern carbon technologies. The carbon layers are situated between Kiso Hinoki outer layers and the core ply and are produced from the revolutionary elastic rubber carbon which improves the playing properties of the blade. It was a challenge for the production to make the handle, not from wood, but from carbon material. The carbon in the handle is very light which reduces the total weight of the blade to approximately 75 gr. The size of the bade is 157 mm x 150 mm. Made in Japan."
   },
   {
-    "_id": {
-      "$oid": "641e58f783d5051c21e245b2"
-    },
+    "_id": "641e58f783d5051c21e245b2",
     "SKU": "1-2",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e58f783d5051c21e245b2.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Goriki Super Drive",
-    "category": 1,
+    "style": "classic",
     "price": 273.68,
     "quantity": 100,
     "properties": {
@@ -38,14 +36,13 @@
     "description": "This Goriki Drive blade has a 6-ply, wood construction, with fascinating balance for performing offensive attacks. The outer plies are made of brown walnut wood and the central plies from the hinoki cypress. The rigid construction generates enough power to overpower your opponents' defense. The Goriki blade series, also called the Rigidity series, was developed by Dr. Rokuro Sakuma (Nittaku equipment advisor) who has provided many Japanese national team players with unique equipment. Blade size: 160×154mm. Made in Japan."
   },
   {
-    "_id": {
-      "$oid": "641e592983d5051c21e245b3"
-    },
+    "_id": "641e592983d5051c21e245b3",
     "SKU": "1-3",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e592983d5051c21e245b3.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Basaltec Outer",
-    "category": 1,
+    "style": "classic",
     "price": 273.68,
     "quantity": 100,
     "properties": {
@@ -57,14 +54,13 @@
     "description": "This blade incorporates 2 basalt fiber plies between the middle and outer plies that give it a softer feeling and extra power. The expert craftsmanship and the unique materials used allow this blade to have significant dwell time to really load the ball with spin and enough propulsion to send the ball back with strong power. The outer layers of basalt fiber allow for extra speed on attacks close to the table."
   },
   {
-    "_id": {
-      "$oid": "641e593b83d5051c21e245b4"
-    },
+    "_id": "641e593b83d5051c21e245b4",
     "SKU": "1-4",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e593b83d5051c21e245b4.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Basaltec Outer",
-    "category": 1,
+    "style": "classic",
     "price": 273.68,
     "quantity": 100,
     "properties": {
@@ -76,14 +72,13 @@
     "description": "This blade incorporates 2 basalt fiber plies between the middle and outer plies that give it a softer feeling and extra power. The expert craftsmanship and the unique materials used allow this blade to have significant dwell time to really load the ball with spin and enough propulsion to send the ball back with strong power. The outer layers of basalt fiber allow for extra speed on attacks close to the table."
   },
   {
-    "_id": {
-      "$oid": "641e594c83d5051c21e245b5"
-    },
+    "_id": "641e594c83d5051c21e245b5",
     "SKU": "1-5",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e594c83d5051c21e245b5.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Mima Ito Carbon",
-    "category": 1,
+    "style": "classic",
     "price": 190.66,
     "quantity": 100,
     "properties": {
@@ -95,14 +90,13 @@
     "description": "The fast offensive blade of the Japanese star Mima Ito. The FE Carbon, located right under the outer plies, gives the blade a pleasant carbon feeling and great power potential that can easily be implemented into attacking shots. Mima Ito is a member of the Japanese national team. She has become the Olympic Champion in Tokyo in mixed, reached final in team event, and won bronze in singles. Made in Japan."
   },
   {
-    "_id": {
-      "$oid": "641e595b83d5051c21e245b6"
-    },
+    "_id": "641e595b83d5051c21e245b6",
     "SKU": "1-6",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e595b83d5051c21e245b6.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Acoustic Carbon",
-    "category": 1,
+    "style": "classic",
     "price": 190.66,
     "quantity": 100,
     "properties": {
@@ -114,14 +108,13 @@
     "description": "The Nittaku Acoustic Carbon is based on the original Acoustic blade. This blade was created by adding two layers of carbon to the original Acoustic blade. This provides it with the familiar feeling of a carbon blade. Made in Japan."
   },
   {
-    "_id": {
-      "$oid": "641e596b83d5051c21e245b7"
-    },
+    "_id": "641e596b83d5051c21e245b7",
     "SKU": "1-7",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e596b83d5051c21e245b7.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Kasumi Special",
-    "category": 1,
+    "style": "classic",
     "price": 165.87,
     "quantity": 100,
     "properties": {
@@ -133,14 +126,13 @@
     "description": "The Nittaku Kasumi Special, used by Kasumi Ishikawa, is a powerful and well balanced blade. This blade has two plies of the newly developed FE-Carbon in between the middle and inner plies. Made in Japan."
   },
   {
-    "_id": {
-      "$oid": "641e597d83d5051c21e245b8"
-    },
+    "_id": "641e597d83d5051c21e245b8",
     "SKU": "1-8",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e597d83d5051c21e245b8.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Tenaly Acoustic Carbon Inner",
-    "category": 1,
+    "style": "classic",
     "price": 124.39,
     "quantity": 100,
     "properties": {
@@ -152,14 +144,13 @@
     "description": "Tenaly Acoustic Carbon Inner"
   },
   {
-    "_id": {
-      "$oid": "641e599e83d5051c21e245b9"
-    },
+    "_id": "641e599e83d5051c21e245b9",
     "SKU": "1-9",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e599e83d5051c21e245b9.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Tornado King Power 53",
-    "category": 1,
+    "style": "classic",
     "price": 149.88,
     "quantity": 100,
     "properties": {
@@ -171,14 +162,13 @@
     "description": "The Nittaku Tornado King Power is a 5+2 offensive blade. It has 5 wood plies and two Kevlar carbon plies. While the ply count is the same as the Tornado King Speed, the wood composition is different. Due to the differences in wood density of these two blades, the balance is also different giving each blade its own unique feeling. Made in Japan."
   },
   {
-    "_id": {
-      "$oid": "641e59ad83d5051c21e245ba"
-    },
+    "_id": "641e59ad83d5051c21e245ba",
     "SKU": "1-10",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e59ad83d5051c21e245ba.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Hino Blade 7.22",
-    "category": 1,
+    "style": "classic",
     "price": 136.16,
     "quantity": 100,
     "properties": {
@@ -190,14 +180,13 @@
     "description": "Nittaku Hino Blade 7.22 is a slower blade compared to Nittaku Hino Blade 5.22. It has a multilayer construction, 7 layers of the famous, 300 years old hinoki wood, with 4 layers of carbon material, which is unusual for Nittaku. The carbon layers are located very close to the top Hinoki layers. Due to how lightweight Hinoki wood is, the blade does not feel heavy at all. This blade will be much liked by those who feel a passion for thin carbon blades. Made in Japan."
   },
   {
-    "_id": {
-      "$oid": "641e59bd83d5051c21e245bb"
-    },
+    "_id": "641e59bd83d5051c21e245bb",
     "SKU": "1-11",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e59bd83d5051c21e245bb.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Septear Feel",
-    "category": 1,
+    "style": "classic",
     "price": 115.18,
     "quantity": 100,
     "properties": {
@@ -209,14 +198,13 @@
     "description": "The Nittaku Septear is a 7 ply blade that combines 7 plies of Hinoki plywood with an outer FE carbon layer. This blade strikes a good balance between speed and feeling. With Kiso Hinoki it offers unique elasticity and feeling."
   },
   {
-    "_id": {
-      "$oid": "641e59ce83d5051c21e245bc"
-    },
+    "_id": "641e59ce83d5051c21e245bc",
     "SKU": "1-12",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e59ce83d5051c21e245bc.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "Tenaly Acoustic",
-    "category": 1,
+    "style": "classic",
     "price": 124.39,
     "quantity": 100,
     "properties": {
@@ -228,14 +216,13 @@
     "description": "The Nittaku Tenaly Acoustic is an offshoot of the Nittaku Acoustic blade with a unique, bent handle that provides a special grip which some people consider more natural than standard shakehand handles. This unique handle has gathered a substantial minority of loyal fans in Japan. Without a doubt, this unique blade provides a special feeling that is highly prized by some players. This blade can also be used with a penhold grip. Made in Japan."
   },
   {
-    "_id": {
-      "$oid": "641e59e483d5051c21e245bd"
-    },
+    "_id": "641e59e483d5051c21e245bd",
     "SKU": "1-13",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e59e483d5051c21e245bd.png",
+    "image": "",
+    "category": 1,
     "brand": "Nittaku",
     "name": "S-series S-KC",
-    "category": 1,
+    "style": "classic",
     "price": 111.27,
     "quantity": 100,
     "properties": {
@@ -247,14 +234,13 @@
     "description": "The Nittaku S-KC is the fastest blade in the Nittaku S-Series. Kevlar carbon together with choice spruce wood produce a powerful bounce. The perfect weapon for looping from any distance and blocking. Made in Germany."
   },
   {
-    "_id": {
-      "$oid": "641e5a0a83d5051c21e245be"
-    },
+    "_id": "641e5a0a83d5051c21e245be",
     "SKU": "1-14",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5a0a83d5051c21e245be.png",
+    "image": "",
+    "category": 1,
     "brand": "Butterfly",
     "name": "Jun Mizutani Super ZLC",
-    "category": 1,
+    "style": "classic",
     "price": 365.97,
     "quantity": 100,
     "properties": {
@@ -266,14 +252,13 @@
     "description": "The Mizutani Super ZLC has a fantastic medium-hard touch and supports all forms of fast and spin-oriented play. A beautiful design combined with skilful craftsmanship makes the Mizutani Super ZLC a blade to look out for. The blade is very fast and requires professional skills to handle it. Made in Japan. Non-discountable item."
   },
   {
-    "_id": {
-      "$oid": "641e5a2a83d5051c21e245bf"
-    },
+    "_id": "641e5a2a83d5051c21e245bf",
     "SKU": "1-15",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5a2a83d5051c21e245bf.png",
+    "image": "",
+    "category": 1,
     "brand": "Butterfly",
     "name": "Zhang Jike Super ZLC",
-    "category": 1,
+    "style": "classic",
     "price": 365.97,
     "quantity": 100,
     "properties": {
@@ -285,14 +270,13 @@
     "description": "The very first model with Super ZL-Carbon; Butterfly has succeeded in achieving not only a better reaction than existing blades, but also the expansion of the high-reaction area. Blade Size: 157x150mm FL Handle Size: 100x25mm ST Handle Size: 100x23mm (NON-DISCOUNTABLE ITEM)"
   },
   {
-    "_id": {
-      "$oid": "641e5a3d83d5051c21e245c0"
-    },
+    "_id": "641e5a3d83d5051c21e245c0",
     "SKU": "1-16",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5a3d83d5051c21e245c0.png",
+    "image": "",
+    "category": 1,
     "brand": "Butterfly",
     "name": "Harimoto Tomokazu Innerforce Super ZLC",
-    "category": 1,
+    "style": "classic",
     "price": 365.97,
     "quantity": 100,
     "properties": {
@@ -304,14 +288,13 @@
     "description": "The first Innerforce blade using Super ZLC fibres is also the fastest of the series. Created in cooperation with Japan’s Superstar Tomokazu Harimoto, the Innerforce technology creates a softer touch by placing the hard carbon fibres directly above the blade’s core, further away from the surface. While the Super-ZLC fibres provide precision and punch, the Harimoto Tomokazu Innerforce Super ZLC with its completely new designed blade composition supports soft and slow shots as much as powerful topspin play from any distance. NON DISCOUNTABLE ITEM."
   },
   {
-    "_id": {
-      "$oid": "641e5a4b83d5051c21e245c1"
-    },
+    "_id": "641e5a4b83d5051c21e245c1",
     "SKU": "1-17",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5a4b83d5051c21e245c1.png",
+    "image": "",
+    "category": 1,
     "brand": "Butterfly",
     "name": "Timo Boll ZLC",
-    "category": 1,
+    "style": "classic",
     "price": 198.84,
     "quantity": 100,
     "properties": {
@@ -323,14 +306,13 @@
     "description": "ZL Carbon: High Performance Model for the next generation •Carbon’s speed and ZL fiber’s lightness and flexibility •high rebound force •flexibility (NON-DISCOUNTABLE ITEM)"
   },
   {
-    "_id": {
-      "$oid": "641e5a5a83d5051c21e245c2"
-    },
+    "_id": "641e5a5a83d5051c21e245c2",
     "SKU": "1-18",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5a5a83d5051c21e245c2.png",
+    "image": "",
+    "category": 1,
     "brand": "Butterfly",
     "name": "Timo Boll ALC",
-    "category": 1,
+    "style": "classic",
     "price": 181.57,
     "quantity": 100,
     "properties": {
@@ -342,14 +324,13 @@
     "description": "Timo Boll's and many other professionals' blade of choice. This blade is known for being a strong offensive weapon that is very well balanced. It allows for good speed but still has the control necessary to send out the spinniest of loops. (NON-DISCOUNTABLE ITEM)"
   },
   {
-    "_id": {
-      "$oid": "641e5a7783d5051c21e245c3"
-    },
+    "_id": "641e5a7783d5051c21e245c3",
     "SKU": "1-19",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5a7783d5051c21e245c3.png",
+    "image": "",
+    "category": 1,
     "brand": "Butterfly",
     "name": "Zhang Jike T5000",
-    "category": 1,
+    "style": "classic",
     "price": 167.04,
     "quantity": 100,
     "properties": {
@@ -361,14 +342,13 @@
     "description": "A model with TAMCA 5000 which is good for explosive power when attacking; the enchantment is not only the power in attack but also the ease of use brought by the notably thin blade. 5-ply + 2 Tamca Carbon Made in Japan. Blade Size: 157x150mm FL Handle Size: 100x25mm (NON-DISCOUNTABLE ITEM)"
   },
   {
-    "_id": {
-      "$oid": "641e5a8c83d5051c21e245c4"
-    },
+    "_id": "641e5a8c83d5051c21e245c4",
     "SKU": "1-20",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5a8c83d5051c21e245c4.png",
+    "image": "",
+    "category": 1,
     "brand": "Butterfly",
     "name": "Primorac Carbon",
-    "category": 1,
+    "style": "classic",
     "price": 129.8,
     "quantity": 100,
     "properties": {
@@ -380,14 +360,13 @@
     "description": "Very fast uncompromising blade with the light 3+2 construction. Hinoki wood is used for outer plies. Famous Tamca 5000 is used as carbon layers. Quite a bargain for such a price. Made in Japan. (NON-DISCOUNTABLE ITEM)"
   },
   {
-    "_id": {
-      "$oid": "641e5a9f83d5051c21e245c5"
-    },
+    "_id": "641e5a9f83d5051c21e245c5",
     "SKU": "1-21",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5a9f83d5051c21e245c5.png",
+    "image": "",
+    "category": 1,
     "brand": "Butterfly",
     "name": "Korbel Japan",
-    "category": 1,
+    "style": "classic",
     "price": 88.92,
     "quantity": 100,
     "properties": {
@@ -399,14 +378,13 @@
     "description": "Made in Japan (NON-DISCOUNTABLE ITEM)"
   },
   {
-    "_id": {
-      "$oid": "641e5ab083d5051c21e245c6"
-    },
+    "_id": "641e5ab083d5051c21e245c6",
     "SKU": "1-22",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5ab083d5051c21e245c6.png",
+    "image": "",
+    "category": 1,
     "brand": "DHS",
     "name": "Hurricane Hao III",
-    "category": 1,
+    "style": "classic",
     "price": 199.74,
     "quantity": 100,
     "properties": {
@@ -418,14 +396,13 @@
     "description": "Used by Wang Hao during the VOC free times. Composed of 5 ply with single fiberglass-carbon layer in the middle wich provide outstanding control and significant power. The blade is packed in an exclusive presentation box."
   },
   {
-    "_id": {
-      "$oid": "641e5ac083d5051c21e245c7"
-    },
+    "_id": "641e5ac083d5051c21e245c7",
     "SKU": "1-23",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5ac083d5051c21e245c7.png",
+    "image": "",
+    "category": 1,
     "brand": "DHS",
     "name": "Hurricane Long 5 Light",
-    "category": 1,
+    "style": "classic",
     "price": 199.74,
     "quantity": 100,
     "properties": {
@@ -437,14 +414,13 @@
     "description": "The light version of the famous Hurricane Long 5. The word light does not describe the weight, but feeling and control. The blade has a smaller handle than standard Hurricane Long 5, but a slightly bigger head, which provides better control and more feeling comparing to the original version."
   },
   {
-    "_id": {
-      "$oid": "641e5ad383d5051c21e245c8"
-    },
+    "_id": "641e5ad383d5051c21e245c8",
     "SKU": "1-24",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5ad383d5051c21e245c8.png",
+    "image": "",
+    "category": 1,
     "brand": "DHS",
     "name": "Hurricane 301T",
-    "category": 1,
+    "style": "classic",
     "price": 107.09,
     "quantity": 100,
     "properties": {
@@ -456,14 +432,13 @@
     "description": "The DHS Hurricane 301T is considerably faster than the original 301. The DHS Hurricane 301T reaches the same speed as 301X, but with a softer feeling, which creates an impression of stability and confidence in the game."
   },
   {
-    "_id": {
-      "$oid": "641e5af883d5051c21e245c9"
-    },
+    "_id": "641e5af883d5051c21e245c9",
     "SKU": "1-25",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5af883d5051c21e245c9.png",
+    "image": "",
+    "category": 1,
     "brand": "DHS",
     "name": "Power G6X",
-    "category": 1,
+    "style": "classic",
     "price": 63.49,
     "quantity": 100,
     "properties": {
@@ -475,14 +450,13 @@
     "description": "DHS Power G6X is a mid-fast offensive blade with great ball feeling. This blade is considerably slower compared to the previous DHS Power G5X model."
   },
   {
-    "_id": {
-      "$oid": "641e5b6c83d5051c21e245ca"
-    },
+    "_id": "641e5b6c83d5051c21e245ca",
     "SKU": "1-26",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5b6c83d5051c21e245ca.png",
+    "image": "",
+    "category": 1,
     "brand": "DHS",
     "name": "Power G5X",
-    "category": 1,
+    "style": "classic",
     "price": 45.32,
     "quantity": 100,
     "properties": {
@@ -494,14 +468,13 @@
     "description": "Made in Japan (NON-DISCOUNTABLE ITEM)"
   },
   {
-    "_id": {
-      "$oid": "641e5b7c83d5051c21e245cb"
-    },
+    "_id": "641e5b7c83d5051c21e245cb",
     "SKU": "1-27",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5b7c83d5051c21e245cb.png",
+    "image": "",
+    "category": 1,
     "brand": "DHS",
     "name": "Power G12 OFF",
-    "category": 1,
+    "style": "classic",
     "price": 41.69,
     "quantity": 100,
     "properties": {
@@ -513,14 +486,13 @@
     "description": "The DHS PG12 is an offensive blade that incorporates glass fiber. This increases dwell time and control on all strokes."
   },
   {
-    "_id": {
-      "$oid": "641e5b8c83d5051c21e245cc"
-    },
+    "_id": "641e5b8c83d5051c21e245cc",
     "SKU": "1-28",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5b8c83d5051c21e245cc.png",
+    "image": "",
+    "category": 1,
     "brand": "DHS",
     "name": "Wind Series W3010",
-    "category": 1,
+    "style": "classic",
     "price": 21.71,
     "quantity": 100,
     "properties": {
@@ -532,14 +504,13 @@
     "description": "For those who have mastered basic techniques in table tennis and want to continue developing, the 'Wind' series table tennis blade can help them improve in a short time. An ALL+ that will give you the control necessary to improve your offensive game."
   },
   {
-    "_id": {
-      "$oid": "641e5b9c83d5051c21e245cd"
-    },
+    "_id": "641e5b9c83d5051c21e245cd",
     "SKU": "1-29",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5b9c83d5051c21e245cd.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "Kinetic Speed",
-    "category": 1,
+    "style": "classic",
     "price": 198.93,
     "quantity": 100,
     "properties": {
@@ -551,14 +522,13 @@
     "description": "The secret of this blade lies in its unusual composition from synthetic fibres. They create an extraordinary sweet spot and an unsurpassed sensation when serving. Perfect for an offensive game both at the table or at mid distance. Even in high speed rallies, KS Kinetic Speed is totally controllable. Reaching new heights, this high-quality blade combines lightness, flexibility and stability."
   },
   {
-    "_id": {
-      "$oid": "641e5bab83d5051c21e245ce"
-    },
+    "_id": "641e5bab83d5051c21e245ce",
     "SKU": "1-30",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5bab83d5051c21e245ce.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "Shang Kun Hybrid ZC",
-    "category": 1,
+    "style": "classic",
     "price": 180.75,
     "quantity": 100,
     "properties": {
@@ -570,14 +540,13 @@
     "description": "Agility, suppleness, precision, clarity, determination, and consistency compose the main characteristics of the blade of this highly talented former Chinese international. The player's style (spirit and playing intelligence) is reflected in this blade. The specially selected and chosen materials (Hybrid ZC) bring clarity and determination to the strokes."
   },
   {
-    "_id": {
-      "$oid": "641e5bba83d5051c21e245cf"
-    },
+    "_id": "641e5bba83d5051c21e245cf",
     "SKU": "1-31",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5bba83d5051c21e245cf.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "Samsonov Stratus Carbon",
-    "category": 1,
+    "style": "classic",
     "price": 99,
     "quantity": 100,
     "properties": {
@@ -589,14 +558,13 @@
     "description": "TIBHAR selected high-quality wood types and combined them with a new generation of Kevlar carbon: the ideal prerequisite for an offensive but still controllable game. The carbon permits the needed hardness and stability in your strokes. Great playing sensation!"
   },
   {
-    "_id": {
-      "$oid": "641e5bca83d5051c21e245d0"
-    },
+    "_id": "641e5bca83d5051c21e245d0",
     "SKU": "1-32",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5bca83d5051c21e245d0.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "CCA Unlimited",
-    "category": 1,
+    "style": "classic",
     "price": 153.5,
     "quantity": 100,
     "properties": {
@@ -608,14 +576,13 @@
     "description": "The oversized sweet spot of CCA Unlimited provides an extra amount of control for an offensive game. The high speed potential of this blade is the result of the balanced combination of its carbon layers with with wood that allows for an increase in catapult effect. Even when playing a topspin game away from the table, it maintains stability when playing counter topspins and blocks. This blade has been adapted for an offensive game with the perfect balance between hardness and feeling."
   },
   {
-    "_id": {
-      "$oid": "641e5bd883d5051c21e245d1"
-    },
+    "_id": "641e5bd883d5051c21e245d1",
     "SKU": "1-33",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5bd883d5051c21e245d1.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "Samsonov Carbon",
-    "category": 1,
+    "style": "classic",
     "price": 57.14,
     "quantity": 100,
     "properties": {
@@ -627,14 +594,13 @@
     "description": "Developed in association with Vladimir Samsonov, this blade is uncompromising. It is the ideal blade for players willing to dominate the table. Especially developed carbon layers combined with sensitive, but nevertheless fast Ayous plywood, this blade possesses an extreme power."
   },
   {
-    "_id": {
-      "$oid": "641e5be783d5051c21e245d2"
-    },
+    "_id": "641e5be783d5051c21e245d2",
     "SKU": "1-34",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5be783d5051c21e245d2.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "Drinkhall Allround Classic",
-    "category": 1,
+    "style": "classic",
     "price": 50.77,
     "quantity": 100,
     "properties": {
@@ -646,14 +612,13 @@
     "description": "The Drinkhall Allround Classic performs like a traditional all round blade for maximum control and feeling. The blade is excellent for maximum accuracy in topspin strokes, blocks and defensive player."
   },
   {
-    "_id": {
-      "$oid": "641e5bf883d5051c21e245d3"
-    },
+    "_id": "641e5bf883d5051c21e245d3",
     "SKU": "1-35",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5bf883d5051c21e245d3.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "Balsa Fibretec 75",
-    "category": 1,
+    "style": "classic",
     "price": 44.42,
     "quantity": 100,
     "properties": {
@@ -665,14 +630,13 @@
     "description": "High performance blade for offensive players. The weapon for the uncompromising attack."
   },
   {
-    "_id": {
-      "$oid": "641e5c0783d5051c21e245d4"
-    },
+    "_id": "641e5c0783d5051c21e245d4",
     "SKU": "1-36",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5c0783d5051c21e245d4.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "E. Lebesson",
-    "category": 1,
+    "style": "classic",
     "price": 36.24,
     "quantity": 100,
     "properties": {
@@ -684,14 +648,13 @@
     "description": "The blade of the European Champion 2016 in single and French National Champion 2009, Emmanuel Lebesson stands for modern, athletic attacking table tennis of the French school - always keeping the adversary under pressure with uninterrupted action. The extra hard inner veneer enables the necessary tempo. Lebesson suits every player who puts no limit to his game."
   },
   {
-    "_id": {
-      "$oid": "641e5c1f83d5051c21e245d5"
-    },
+    "_id": "641e5c1f83d5051c21e245d5",
     "SKU": "1-37",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5c1f83d5051c21e245d5.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "IV-L Light Contact",
-    "category": 1,
+    "style": "classic",
     "price": 31.7,
     "quantity": 100,
     "properties": {
@@ -703,14 +666,13 @@
     "description": "This TIBHAR allround classic presents itself as an ALL/OFF blade due to the applied ‘Contact light System’. It is lighter although it has a bigger racket shape. The grip system shifts the centre of gravity and makes this blade fast and more controllable. You will enjoy playing with this blade if you look for the combination of a secured allround play and powerful topspins."
   },
   {
-    "_id": {
-      "$oid": "641e5c5083d5051c21e245d6"
-    },
+    "_id": "641e5c5083d5051c21e245d6",
     "SKU": "1-38",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5c5083d5051c21e245d6.png",
+    "image": "",
+    "category": 1,
     "brand": "Thibar",
     "name": "CO-S-3 Defence ST",
-    "category": 1,
+    "style": "classic",
     "price": 27.16,
     "quantity": 100,
     "properties": {
@@ -722,14 +684,13 @@
     "description": "The ideal blade for the passive, defensive player, looking for maximum braking effects and ball control. Combined to a sponge rubber, this 3-ply wood enables extreme undercut, while combined to a long-pimple rubber, reversed spins can be realised."
   },
   {
-    "_id": {
-      "$oid": "641e5c6683d5051c21e245d7"
-    },
+    "_id": "641e5c6683d5051c21e245d7",
     "SKU": "1-39",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5c6683d5051c21e245d7.png",
+    "image": "",
+    "category": 1,
     "brand": "Darker",
     "name": "Imperial Hinoki 2020 (10mm) Jp.Pen",
-    "category": 1,
+    "style": "classic",
     "price": 408.66,
     "quantity": 100,
     "properties": {
@@ -741,14 +702,13 @@
     "description": "This is the Japanese Pen version of the Darker Imperial Hinoki 2020. It is quite exceptional. It is a single ply, made of the best quality Kiso Hinoki wood. Every single component and step of the development is excruciatingly carefully selected and controlled, making it one of the most exclusive blades on the market. Japanese Kiso Hinoki wood is so rare that we can only hope that Darker will continue to have access to the high-quality Hinoki wood from that area for many more years to come because once they run out, it will be another 250 years until the newer Hinoki trees will be aged enough to be once again used in the making of these beautifully crafted blades. Let's just say that the price is warranted. Any lines on the blade are characteristic of Hinoki wood. They are neither cracks nor signs of glueing/bonding. These are single-ply blades, made of pure HINOKI and each surface is very unique. Darker never glues pieces of Hinoki together but uses glue only to attach the grip pieces to the blade. Hinoki is a very fragile material. Very weak under the strong impact. Even with the rubbers, if you place the blade too roughly on the table it could possibly crack. That is why many Japanese users always carry spare blades, just in case. Handle with care. Resin is one of the characteristics of HINOKI wood. It may come out over time. It does not affect the function of the blade."
   },
   {
-    "_id": {
-      "$oid": "641e5c7c83d5051c21e245d8"
-    },
+    "_id": "641e5c7c83d5051c21e245d8",
     "SKU": "1-40",
-    "image": "https://raw.githubusercontent.com/daochoam/Data-Bases/main/topspinstore/products/641e5c7c83d5051c21e245d8.png",
+    "image": "",
+    "category": 1,
     "brand": "Darker",
     "name": "Speed 25 AL (9 mm) Kaku Jp.Pen",
-    "category": 1,
+    "style": "classic",
     "price": 120.72,
     "quantity": 100,
     "properties": {
